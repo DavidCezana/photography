@@ -1,1 +1,1 @@
-Building a photography website using flexbox.
+Building a photography website using flexbox. This is made mobile first!
